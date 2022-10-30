@@ -1,8 +1,10 @@
 ### Hi there 👋
+I'm an undergraduate Engineering student from KIET Group of Institutions Ghaziabad, a technical institute affiliated to Dr APJ Abdul Kalam Technical University Lucknow.
+An out of the box thinker, much interested in real life problem solving and fields like Blockchain, Data structures, MERN stack development.
 
+**Sakshirai273/Sakshirai273** .
 
-**Sakshirai273/Sakshirai273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## About 
 
 - 🔭 I’m currently working on MERN Stack and Blockchain
 - 🌱 I’m currently learning Blockchain and NodeJS
