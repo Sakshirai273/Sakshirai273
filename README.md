@@ -6,9 +6,9 @@ An out of the box thinker, much interested in real life problem solving and fiel
 
 ## About 
 
-- 🔭 I’m currently working on MERN Stack and Blockchain.
-- 🌱 I’m currently learning Blockchain and NodeJS.
-- 👯 I’m looking to collaborate on development hackathons.
+- 🔭 I’m currently working on MERN Stack.
+- 🌱 I’m currently learning NodeJS.
+- 👯 I’m looking to collaborate on hackathons.
 - 🤔 I’m looking for help with Dynamic Programming.
 - 📫 How to reach me: Ping me at my linkedin:- www.linkedin.com/in/ 
 sakshi-rai-634822203
